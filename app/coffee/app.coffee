@@ -82,7 +82,6 @@ configure = ($routeProvider, $locationProvider, $httpProvider, $provide, $tgEven
             title: "HOME.PAGE_TITLE",
             loader: true,
             description: "HOME.PAGE_DESCRIPTION",
-            joyride: "dashboard"
         }
     )
 
@@ -232,7 +231,6 @@ configure = ($routeProvider, $locationProvider, $httpProvider, $provide, $tgEven
             templateUrl: "backlog/backlog.html",
             loader: true,
             section: "backlog",
-            joyride: "backlog"
         }
     )
 
@@ -241,7 +239,6 @@ configure = ($routeProvider, $locationProvider, $httpProvider, $provide, $tgEven
             templateUrl: "kanban/kanban.html",
             loader: true,
             section: "kanban",
-            joyride: "kanban"
         }
     )
 

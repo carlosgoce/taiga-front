@@ -161,7 +161,6 @@ common.login = function(username, password) {
 
         return url === browser.params.glob.host;
     }, 10000).then(function() {
-        return common.closeJoyride();
     });
 };
 
@@ -480,17 +479,6 @@ common.uploadImagePath = function() {
         return browser.params.glob.attachments.windowsImg;
     } else {
         return path.resolve(process.cwd(), 'e2e', browser.params.glob.attachments.unixImg);
-    }
-};
-
-common.closeJoyride = async function() {
-    await browser.waitForAngular();
-
-    let present = await $('.introjs-skipbutton').isPresent();
-
-    if (present) {
-        $('.introjs-skipbutton').click();
-        await browser.sleep(600);
     }
 };
 

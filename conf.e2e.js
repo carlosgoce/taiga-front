@@ -136,9 +136,6 @@ var config = {
                 });
         }, 10000)
         .then(function() {
-            return utils.common.closeJoyride();
-        })
-        .then(function() {
             return browser.get(browser.params.glob.host);
         });
     }

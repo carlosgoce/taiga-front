@@ -173,47 +173,6 @@ describe "tgCurrentUserService", ->
 
         expect(currentUserService._user).to.be.null
 
-    it "disable joyride for anon user", () ->
-        currentUserService.isAuthenticated = sinon.stub()
-        currentUserService.isAuthenticated.returns(false)
-        currentUserService.disableJoyRide()
-
-        expect(mocks.resources.user.setUserStorage).to.have.not.been.called
-
-    it "disable joyride for logged user", () ->
-        currentUserService.isAuthenticated = sinon.stub()
-        currentUserService.isAuthenticated.returns(true)
-        currentUserService.disableJoyRide()
-
-        expect(mocks.resources.user.setUserStorage).to.have.been.calledWith('joyride', {
-            backlog: false,
-            kanban: false,
-            dashboard: false
-        })
-
-    it "load joyride config", (done) ->
-        mocks.resources.user.getUserStorage.withArgs('joyride').promise().resolve(true)
-
-        currentUserService.loadJoyRideConfig().then (config) ->
-            expect(config).to.be.true
-
-            done()
-
-    it "create default joyride config", (done) ->
-        mocks.resources.user.getUserStorage.withArgs('joyride').promise().reject(new Error('error'))
-
-        currentUserService.loadJoyRideConfig().then (config) ->
-            joyride = {
-                backlog: true,
-                kanban: true,
-                dashboard: true
-            }
-
-            expect(mocks.resources.user.createUserStorage).to.have.been.calledWith('joyride', joyride)
-            expect(config).to.be.eql(joyride)
-
-            done()
-
     it "the user can't create private projects if they reach the maximum number of private projects", () ->
         user = Immutable.fromJS({
             id: 1,

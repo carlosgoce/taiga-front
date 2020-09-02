@@ -32,7 +32,6 @@ class CurrentUserService
         @._user = null
         @._projects = Immutable.Map()
         @._projectsById = Immutable.Map()
-        @._joyride = null
 
         taiga.defineImmutableProperty @, "projects", () => return @._projects
         taiga.defineImmutableProperty @, "projectsById", () => return @._projectsById
@@ -56,7 +55,6 @@ class CurrentUserService
         @._user = null
         @._projects = Immutable.Map()
         @._projectsById = Immutable.Map()
-        @._joyride = null
 
     setUser: (user) ->
         @._user = user
@@ -73,43 +71,6 @@ class CurrentUserService
     loadProjectsList: () ->
         return @projectsService.getListProjectsByUserId(@._user.get("id"), null,)
             .then (projects) => @.setProjects(projects)
-
-    disableJoyRide: (section) ->
-        if !@.isAuthenticated()
-            return
-
-        if section
-            @._joyride[section] = false
-        else
-            @._joyride = {
-                backlog: false,
-                kanban: false,
-                dashboard: false
-            }
-
-        @rs.user.setUserStorage('joyride', @._joyride)
-
-    loadJoyRideConfig: () ->
-        return new Promise (resolve) =>
-            if @._joyride != null
-                resolve(@._joyride)
-                return
-
-            @rs.user.getUserStorage('joyride')
-                .then (config) =>
-                    @._joyride = config
-                    resolve(@._joyride)
-                .catch () =>
-                    #joyride not defined
-                    @._joyride = {
-                        backlog: true,
-                        kanban: true,
-                        dashboard: true
-                    }
-
-                    @rs.user.createUserStorage('joyride', @._joyride)
-
-                    resolve(@._joyride)
 
     _loadUserInfo: () ->
         return Promise.all([

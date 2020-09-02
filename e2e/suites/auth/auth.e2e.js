@@ -128,7 +128,6 @@ describe('auth', function() {
                 browser.get(browser.params.glob.host + '/');
 
                 await utils.common.waitLoader();
-                await utils.common.closeJoyride();
             });
         });
 
