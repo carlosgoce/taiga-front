@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Autorizēt aplikāciju",
         "CANCEL": "Atcelt"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "Nākamais",
-            "BACK": "Atpakaļ",
-            "SKIP": "Izlaist",
-            "DONE": "Darīts"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Jūsu projekts",
-                "TEXT": "Laipni lūdzam! Šeit atradīsit projektus, kuros esiet iesaistīts."
-            },
-            "STEP2": {
-                "TITLE": "Strādājat pie",
-                "TEXT": "Šeit vajadzības, uzdevumi un izmaiņu pieprasījumi, pie kuriem tiek strādāts."
-            },
-            "STEP3": {
-                "TITLE": "Tiek vērots",
-                "TEXT1": "Un tieši šeit Jūs atradīsit tos, kuri ir Jūsu projektos, un par kuriem vēlaties uzzināt.",
-                "TEXT2": "Jūs jau strādājat ar Taigu ;)"
-            },
-            "STEP4": {
-                "TITLE": "Sāksim",
-                "TEXT1": "Jūs varat sākt, izveidojot savu pirmo projektu Taigā.",
-                "TEXT2": "Veiksmi!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Projekta kopsavilkums",
-                "TEXT1": "Šeit Jūs redzēsit sava projekta stāvokli.",
-                "TEXT2": "Ar administratora starpniecību Jūs varat mainīt visa veida projekta iestatījumus."
-            },
-            "STEP2": {
-                "TITLE": "Produkta darba klāsts",
-                "TEXT": "Projekta norise - ieplānotā īstenošanai veicamo darbību (vajadzību) pārskats. Šeit plāno sprintus."
-            },
-            "STEP3": {
-                "TITLE": "Sprinti",
-                "TEXT": "Sprints ir īss laika posms (parasti 2 nedēļas), kura laikā jāpabeidz un jānodod konkrēts darbs."
-            },
-            "STEP4": {
-                "TITLE": "Vajadzības",
-                "TEXT": "Tās ir augsta līmeņa prasības. Jūs varat tās pievienot Darba klāstam un ievietot/ievilkt attiecīgajā sprintā."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "Pielāgojiet savu darbplūsmu",
-                "TEXT": "Lai kartētu darbplūsmas statusus, nepieciešamās kolonnas iestatāmas, izmantojot administratoru."
-            },
-            "STEP2": {
-                "TITLE": "Vajadzības & Uzdevumi",
-                "TEXT": "Vajadzības ir augsta līmeņa prasības. Jūs varat tās vilkt uz dažādām kolonnām."
-            },
-            "STEP3": {
-                "TITLE": "Pievienot vajadzības",
-                "TEXT1": "vai vēlaties pievienot atsevišķu vajadzību (pievienot vajadzības ikonu) vai to grupu (ikonu čupu)",
-                "TEXT2": "Veiksmi!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Pārlūkot citus Taigas projektus",
         "PAGE_DESCRIPTION": "Meklējams Taigas publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Filtrējiet pēc Kanban vai Skram.",

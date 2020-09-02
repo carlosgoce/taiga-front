@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Authorize app",
         "CANCEL": "Peru"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "Seuraava",
-            "BACK": "Palvelin",
-            "SKIP": "Ohita",
-            "DONE": "Tehty"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Projektisi",
-                "TEXT": "Tervetuloa! Tässä näet projektit, joissa olet mukana."
-            },
-            "STEP2": {
-                "TITLE": "Käynnissä olevat",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "Seuraa",
-                "TEXT1": "And right here you will find the ones in your projects that you want to know about.",
-                "TEXT2": "You are already working with Taiga ;)"
-            },
-            "STEP4": {
-                "TITLE": "Aloitetaan",
-                "TEXT1": "You can start by creating your first Taiga project.",
-                "TEXT2": "Onnea matkaan!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Projektiyhteenveto",
-                "TEXT1": "Here you will see the state of your project.",
-                "TEXT2": "Voit muokata projektiin liityviä asetuksia admin-näkymässä."
-            },
-            "STEP2": {
-                "TITLE": "Product backlog",
-                "TEXT": "The backlog is the list of requirements (User Stories) for the project. Here is where you will plan your sprints."
-            },
-            "STEP3": {
-                "TITLE": "Kierrokset",
-                "TEXT": "Sprints are short periods of time (usually 2 weeks) during which specific work has to be completed and delivered."
-            },
-            "STEP4": {
-                "TITLE": "Käyttäjätarinat",
-                "TEXT": "Those are the requirements at high level. You can add them to the backlog and drag them to the sprint in which it should be delivered."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "Customize your workflow",
-                "TEXT": "Set up the columns you need to map your workflow statuses through the admin."
-            },
-            "STEP2": {
-                "TITLE": "Käyttäjätarinat & Tehtävät",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "Adding User Stories",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "Onnea matkaan!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Discover projects - Taiga",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",

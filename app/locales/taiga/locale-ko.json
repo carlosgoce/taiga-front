@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "인증 앱",
         "CANCEL": "취소"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "다음",
-            "BACK": "이전",
-            "SKIP": "건너뛰기",
-            "DONE": "완료됨"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "프로젝트",
-                "TEXT": "환영합니다! 여기에서 당신이 참여하고 있는 프로젝트를 찾으실 수 있습니다."
-            },
-            "STEP2": {
-                "TITLE": "일 하는 중",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "구독중",
-                "TEXT1": "그리고 여기에서 프로젝트에 대해 알고 싶은 것들을 찾을 수 있습니다.",
-                "TEXT2": "이미 타이가에 있으신걸요? ;)"
-            },
-            "STEP4": {
-                "TITLE": "시작해 봅시다.",
-                "TEXT1": "여러분의 첫번째 Tagia 프로젝트를 만드세요.",
-                "TEXT2": "행운을 빌어요!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "프로젝트 요약",
-                "TEXT1": "여기에서는 당신의 프로젝트의 상태를 알 수 있습니다.",
-                "TEXT2": "관리자 메뉴에서 프로젝트의 모든 설정을 변경할 수 있어요."
-            },
-            "STEP2": {
-                "TITLE": "제품 백로그",
-                "TEXT": "백 로그는 프로젝트의 요구 사항 (유저 스토리)목록입니다. 스프린트를 계획 할 곳은 다음과 같습니다."
-            },
-            "STEP3": {
-                "TITLE": "스프린트",
-                "TEXT": "스프린트는 특정 작업을 완료하고 전달해야하는 짧은 기간 (일반적으로 2주)입니다."
-            },
-            "STEP4": {
-                "TITLE": "유저 스토리",
-                "TEXT": "그것들은 높은 수준의 요구 사항입니다. 백 로그에 추가하고 전달해야하는 스프린트로 드래그 할 수 있습니다."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "워크플로우 사용자 정의하기",
-                "TEXT": "관리자를 통해 워크 플로우 상태를 매핑하는 데 필요한 열을 설정하십시오"
-            },
-            "STEP2": {
-                "TITLE": "유저 스토리 & 태스크",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "유저 스토리 추가하기",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "행운을 빌어요!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "프로젝트 찾기 - 타이가",
         "PAGE_DESCRIPTION": "타이가 공공 프로젝트 디렉토리를 검색 할 수 있습니다. 백 로그, 타임 라인, 이슈 및 팀을 탐색하십시오. 가장 인기 있거나 가장 활동적인 프로젝트를 확인하십시오. 칸반 또는 스크럼으로 필터",

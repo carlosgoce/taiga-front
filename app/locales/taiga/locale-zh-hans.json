@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "授权应用",
         "CANCEL": "取消"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "下一个",
-            "BACK": "后退",
-            "SKIP": "跳过",
-            "DONE": "完成"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "你的项目",
-                "TEXT": "欢迎！你将找到你所涉及的项目。"
-            },
-            "STEP2": {
-                "TITLE": "进行中",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "观看中",
-                "TEXT1": "在这里你将会找到那些你希望了解的你的项目成员。",
-                "TEXT2": "你已经开始使用Taiga ;)"
-            },
-            "STEP4": {
-                "TITLE": "现在开始！",
-                "TEXT1": "你可以以创建你的第一个Taiga项目开始。",
-                "TEXT2": "祝你好运！"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "项目简介",
-                "TEXT1": "在这里你将看到你的项目状态。",
-                "TEXT2": "通过管理员，你可以改变项目的各种设置。"
-            },
-            "STEP2": {
-                "TITLE": "产品待办事项",
-                "TEXT": "待办事项是产品的需求（用户故事）列表这里也就是你做冲刺计划的地方。"
-            },
-            "STEP3": {
-                "TITLE": "冲刺任务",
-                "TEXT": "冲刺是一段时间（一般为两周），在这期间你需要完成指定工作并交付。"
-            },
-            "STEP4": {
-                "TITLE": "用户故事",
-                "TEXT": "这些是更高层次的需求。你可以将它们添加到待办事项中，然后将其拖拽到冲刺，它们应该在冲刺中进行交付。"
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "自定义你的工作流",
-                "TEXT": "通过管理员，根据你的需要设置这些列来映射你的工作流"
-            },
-            "STEP2": {
-                "TITLE": "用户故事和任务",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "添加你的用户故事",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "祝你好运！"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "探索更多项目",
         "PAGE_DESCRIPTION": "Taiga中的公共项目的可搜索的目录。探索积压，时间线，问题，以及团队。检索出最喜欢的或者最活跃的项目。通过看板或者敏捷开发进行过滤。",

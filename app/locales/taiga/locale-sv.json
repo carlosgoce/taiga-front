@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Auktorisera appen",
         "CANCEL": "Avbryt"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "Nästa",
-            "BACK": "Baksida",
-            "SKIP": "Skip",
-            "DONE": "Färdig"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Ditt projekt",
-                "TEXT": "välkommen! Her hittar du projekt du är involverad i."
-            },
-            "STEP2": {
-                "TITLE": "Arbetar med",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "Bevakar",
-                "TEXT1": "And right here you will find the ones in your projects that you want to know about.",
-                "TEXT2": "Du arbetar redan med Taiga ;)"
-            },
-            "STEP4": {
-                "TITLE": "Låt oss börja",
-                "TEXT1": "Du kan starta att skapa ditt första Taiga-projekt.",
-                "TEXT2": "Lycka till!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Uppsummering projekt",
-                "TEXT1": "Har kan du se ditt projekts status.",
-                "TEXT2": "Du kanändra varje del av projektinställningarna i Admin."
-            },
-            "STEP2": {
-                "TITLE": "Produkt-inkorg",
-                "TEXT": "Inkorgen består av kravlistor (användarhistorier) för projektet. Det är här du planerar dina sprintar."
-            },
-            "STEP3": {
-                "TITLE": "Sprintar",
-                "TEXT": "Sprintar är korta tidsperioder (normalt 2 veckor) där specifika arbetsuppgifter ska utföras eller levereras. "
-            },
-            "STEP4": {
-                "TITLE": "Användarhistorie",
-                "TEXT": "Det här är kraven på en hög nivå. Du kan lägga till dem i inkorgen och dra dem till sprinten som de ska ligga i."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "Anpassa ditt arbetsflöde",
-                "TEXT": "Lägg till de kolumner du behöver för att få en översikt över arbetsflödets statusar genom Admin. "
-            },
-            "STEP2": {
-                "TITLE": "Användarhistorier & uppgifter",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "Lägg till användarhistorier",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "Lycka till!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Discover projects - Taiga",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",

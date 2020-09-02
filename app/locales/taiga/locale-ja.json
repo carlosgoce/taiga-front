@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "アプリを許可",
         "CANCEL": "キャンセル"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "次へ",
-            "BACK": "戻る",
-            "SKIP": "スキップ",
-            "DONE": "完了"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "あなたのプロジェクト",
-                "TEXT": "ようこそ！ここであなたが関わっているプロジェクトが見つかります。"
-            },
-            "STEP2": {
-                "TITLE": "取り組んでいる作業",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "フォロー中",
-                "TEXT1": "そして、ここでは、あなたが知りたいプロジェクトの内容が見みつかるでしょう。",
-                "TEXT2": "あなたはもうTaigaで作業しています ;)"
-            },
-            "STEP4": {
-                "TITLE": "さあ始めましょう",
-                "TEXT1": "最初のTaigaプロジェクトを作成して始めてみましょう。",
-                "TEXT2": "グッドラック！"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "プロジェクト概要",
-                "TEXT1": "ここではあなたのプロジェクトの進捗を見ることができます。",
-                "TEXT2": "管理でプロジェクトの全ての設定を変更できます。"
-            },
-            "STEP2": {
-                "TITLE": "プロダクト バックログ",
-                "TEXT": "The backlog is the list of requirements (User Stories) for the project. Here is where you will plan your sprints."
-            },
-            "STEP3": {
-                "TITLE": "スプリント",
-                "TEXT": "Sprints are short periods of time (usually 2 weeks) during which specific work has to be completed and delivered."
-            },
-            "STEP4": {
-                "TITLE": "User Stories",
-                "TEXT": "Those are the requirements at high level. You can add them to the backlog and drag them to the sprint in which it should be delivered."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "ワークフローのカスタマイズ",
-                "TEXT": "Set up the columns you need to map your workflow statuses through the admin."
-            },
-            "STEP2": {
-                "TITLE": "ユーザーストーリー＆タスク",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "ユーザーストーリーを追加中",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "グッドラック！"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "プロジェクトを探す - Taiga",
         "PAGE_DESCRIPTION": "検索できるTaigaの公開プロジェクトディレクトリ。バックログ、タイムライン、課題、そしてチームを探してみてください。最も人気な、あるいは活気のあるプロジェクトも見つけられます。カンバンやスクラムでフィルターしてみるのも良いかもしれません。",

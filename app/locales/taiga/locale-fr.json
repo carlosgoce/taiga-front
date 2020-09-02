@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Autoriser l'application",
         "CANCEL": "Annuler"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "Suivant",
-            "BACK": "Back",
-            "SKIP": "Passer",
-            "DONE": "Fait"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Votre projet",
-                "TEXT": "Bienvenue ! Vous trouverez ici tous les projets dont vous êtes membre."
-            },
-            "STEP2": {
-                "TITLE": "Projets en cours",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "Suivi",
-                "TEXT1": "Et ici vous trouverez ceux que vous voulez connaitre dans vos projets.",
-                "TEXT2": "Vous travaillez déjà avec Taiga ;)"
-            },
-            "STEP4": {
-                "TITLE": "Commençons",
-                "TEXT1": "Vous pouvez démarrer en créant votre premier projet Taiga.",
-                "TEXT2": "Bonne chance!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Résumé du projet",
-                "TEXT1": "Ici vous verrez l'état de votre projet.",
-                "TEXT2": "Vous pouvez modifier tous les paramètres d'un projet dans l'administration."
-            },
-            "STEP2": {
-                "TITLE": "Backlog du produit",
-                "TEXT": "Le backlog est la liste des exigences (récits utilisateur) pour le projet. C'est ici que vous préparerez vos sprints."
-            },
-            "STEP3": {
-                "TITLE": "Sprints",
-                "TEXT": "Les sprints sont des courtes périodes (généralement 2 semaines) pendant lesquels certaines tâches doivent êtres faites et livrées."
-            },
-            "STEP4": {
-                "TITLE": "Récits utilisateur",
-                "TEXT": "Ce sont les exigences du projet de niveau élevé. Vous pouvez les ajouter au backlog et les glisser dans le sprint pour lequel elles devront être livrées."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "Personnalisez votre workflow",
-                "TEXT": "Configurez les colonnes de statut dont vous aurez besoin pour lier votre workflow à l'administration."
-            },
-            "STEP2": {
-                "TITLE": "Récits utilisateur & Tâches",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "Ajout de récits utilisateur",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "Bonne chance !"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Découvrir les projets - Taiga",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",

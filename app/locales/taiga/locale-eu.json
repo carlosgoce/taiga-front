@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Baimendu aplikazioa",
         "CANCEL": "Utzi"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "Hurrengoa",
-            "BACK": "Atzera",
-            "SKIP": "Txanda pasa",
-            "DONE": "Egina"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Zure proiektua",
-                "TEXT": "Ongi etorri! Ongi etorri! Hemen aurkituko dituzu zure proiektuak."
-            },
-            "STEP2": {
-                "TITLE": "Lantzen",
-                "TEXT": "Hemen aurkituko dituzu lantzen ari zaren eginkizun, ataza eta gertakariak."
-            },
-            "STEP3": {
-                "TITLE": "Behatzen",
-                "TEXT1": "Eta hemen bertan aurkituko dituzu proiektuetan zuretzat esanguratsu diren osagaiak.",
-                "TEXT2": "Taigarekin lanean ari zara ;)"
-            },
-            "STEP4": {
-                "TITLE": "Has gaitezen",
-                "TEXT1": "Hasi zaitezke zure lehen Taiga proiektu bat sortzen",
-                "TEXT2": "On egin!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Proiektuaren laburpena",
-                "TEXT1": "Hemen ikusiko duzu zure proiektuaren egoera.",
-                "TEXT2": "Proiektuaren ezarpen guztiak aldatu ditzakezu Admin-en bitartez."
-            },
-            "STEP2": {
-                "TITLE": "Produktu honetan atzeratutako lana",
-                "TEXT": "Atzeratutako lana da proiektuak egiteko dituen eginkizunak. Hemen planifikatzen ahal dituzu urratsak."
-            },
-            "STEP3": {
-                "TITLE": "Urratsak",
-                "TEXT": "Urratsak aldi laburrak izan ohi dira (gehienetan, 2 aste); urrats bakoitzean lan jakin bat amaitu beharra izaten da."
-            },
-            "STEP4": {
-                "TITLE": "Eginkizunak",
-                "TEXT": "Hauek dira goi mailako eskakizunak. Atzeratutako lanera gehitu ditzakezu, eta amaitu beharreko urrats batera eraman."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "Pertsonalizatu zure lan katea",
-                "TEXT": "Ezarri lan katea ongi adierazten dituzten zutabeak admin-en bitartez."
-            },
-            "STEP2": {
-                "TITLE": "Eginkizunak eta atazak",
-                "TEXT": "Eginkizunak dira goi mailako zereginak.  Zenbait zutabetan antola ditzakezu."
-            },
-            "STEP3": {
-                "TITLE": "Eginkizunak gehitzen",
-                "TEXT1": "Eginkizun soil bat gehitu dezakezu (ikonoa erabilita) edo sailka gehitu ditzakezu (sailka ikonoa)",
-                "TEXT2": "On egin!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Aurkitu Taigako proiektuak",
         "PAGE_DESCRIPTION": "Taigako proiektu publikoen direktorioa Esploratu epeak, gertakariak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera",

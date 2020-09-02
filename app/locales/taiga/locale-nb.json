@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Godkjenn app",
         "CANCEL": "Avbryt"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "Neste",
-            "BACK": "Tilbake",
-            "SKIP": "Hopp over",
-            "DONE": "Ferdig"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Ditt prosjekt",
-                "TEXT": "Velkommen! Her finner du prosjektene du er involvert i."
-            },
-            "STEP2": {
-                "TITLE": "Arbeider med",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "Følger med på",
-                "TEXT1": "Og akkuratt her vil du finne de i prosjektet ditt som du vil vite om.",
-                "TEXT2": "Du arbeider allerede med Taiga ;)"
-            },
-            "STEP4": {
-                "TITLE": "La oss begynne",
-                "TEXT1": "Du kan starte med å opprette ditt første Taiga prosjekt",
-                "TEXT2": "Lykke til!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Prosjektsammendrag",
-                "TEXT1": "Her vil du se tilstanden til ditt prosjekt.",
-                "TEXT2": "Du kan endre alle prosjektegenskaper gjennom administrasjonpanelet"
-            },
-            "STEP2": {
-                "TITLE": "Produkt backlog",
-                "TEXT": "Backlogen er listen over kravene (Brukerhistorier) til prosjektet. Her kan du planlegge dine sprinter."
-            },
-            "STEP3": {
-                "TITLE": "Sprinter",
-                "TEXT": "Sprinter er korte tidsperioder (vanligvis 2 uker) der spesifikt arbeide må ferdigstilles og leveres."
-            },
-            "STEP4": {
-                "TITLE": "Brukerhistorie",
-                "TEXT": "Dette er kravene på et overordnet nivå. Du kan legge dem til backlogen og dra dem inn i den sprinten der det skal leveres."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "Tilpass din arbeidsflyt",
-                "TEXT": "Sett opp kolonnene du trenger for å kartlegge statusene til din arbeidsflyt gjennom administrasjonspanelet."
-            },
-            "STEP2": {
-                "TITLE": "Brukerhistorier & Oppgaver",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "Legger til Brukerhistorier",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "Lykke til!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Oppdag prosjekter -Taiga",
         "PAGE_DESCRIPTION": "Søkbar katalog med offentlige prosjekter i Taiga. Utforsk backlogger, tidslinjer, hendelser og team. Sjekk ut de mest likte og mest aktive prosjektene. Filtrer etter Kanban og Scrum.",

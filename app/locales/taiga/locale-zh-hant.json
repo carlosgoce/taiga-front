@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "授權的應用服務 ",
         "CANCEL": "取消"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "下一個",
-            "BACK": "後台",
-            "SKIP": "略過",
-            "DONE": "完成"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "你的專案",
-                "TEXT": "歡迎！你可以在此找到相關的專案"
-            },
-            "STEP2": {
-                "TITLE": "進行中",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "觀看中",
-                "TEXT1": "在此你可以找到你想知道的專案",
-                "TEXT2": "你現在可利用Taiga進行工作了"
-            },
-            "STEP4": {
-                "TITLE": "我們開始吧",
-                "TEXT1": "你可以開始創建你在Taiga上的第一個專案了",
-                "TEXT2": "祝好運!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "專案摘要",
-                "TEXT1": "你可以看到專案的狀態",
-                "TEXT2": "你可以在管理頁面變更專案的設定"
-            },
-            "STEP2": {
-                "TITLE": "Product backlog",
-                "TEXT": "The backlog is the list of requirements (User Stories) for the project. Here is where you will plan your sprints."
-            },
-            "STEP3": {
-                "TITLE": "衝刺任務",
-                "TEXT": "衝刺任務為短期(通常為2 週)內特定工作必須要完成與送達."
-            },
-            "STEP4": {
-                "TITLE": "使用者故事",
-                "TEXT": "Those are the requirements at high level. You can add them to the backlog and drag them to the sprint in which it should be delivered."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "調整你的工作流程 ",
-                "TEXT": "你可在管理者頁面設置欄位來繪製工作流程狀態"
-            },
-            "STEP2": {
-                "TITLE": "使用者故事與任務",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "新增使用者故事",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "祝好運!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Discover projects - Taiga",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",

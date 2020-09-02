@@ -1766,68 +1766,6 @@
         "AUTHORIZE_APP": "Uygulamayı yetkilendir",
         "CANCEL": "İptal"
     },
-    "JOYRIDE": {
-        "NAV": {
-            "NEXT": "İleri",
-            "BACK": "Arka",
-            "SKIP": "Geç",
-            "DONE": "Bitmiş"
-        },
-        "DASHBOARD": {
-            "STEP1": {
-                "TITLE": "Projeniz",
-                "TEXT": "Hoşgeldiniz! Burada dahil olduğunuz projeleri göreceksiniz."
-            },
-            "STEP2": {
-                "TITLE": "Üzerinde çalışılıyor",
-                "TEXT": "Here you will find the user stories, tasks and issues in which you are working on."
-            },
-            "STEP3": {
-                "TITLE": "İzliyor",
-                "TEXT1": "Ve burada da projenizde bilmek isteyebileceklerinizi bulacaksınız.",
-                "TEXT2": "Zaten Taiga ile birlikte çalışmaktasınız ;)"
-            },
-            "STEP4": {
-                "TITLE": "Hadi başlayın",
-                "TEXT1": "İlk Taiga projenizi oluşturarak başlayabilirsiniz.",
-                "TEXT2": "İyi şanslar!"
-            }
-        },
-        "BACKLOG": {
-            "STEP1": {
-                "TITLE": "Proje özeti",
-                "TEXT1": "Buradan projenizin durumunu görebilirsiniz.",
-                "TEXT2": "Yönetim bölümünde ile her türlü proje ayarlarını değiştirebilirsiniz."
-            },
-            "STEP2": {
-                "TITLE": "Ürün havuzu",
-                "TEXT": "Havuz, proje gereksinimlerinin (Kullanıcı Hikayeleri) sıralı listesidir. Koşularınızı planlayacağınız yer burasıdır."
-            },
-            "STEP3": {
-                "TITLE": "Koşular",
-                "TEXT": "Koşular, belirlenmiş bir iş yükünün bitirilip teslim edilmesi beklenen tanımlı, kısa (genellikle 2'şer haftalık) zaman dilimleridir."
-            },
-            "STEP4": {
-                "TITLE": "Kullanıcı Hikayeleri ",
-                "TEXT": "Bunlar üst seviye gereksinimler. Bunları önce havuza ekleyip sonra da teslim edilmeleri gereken koşuya çekebilirsiniz."
-            }
-        },
-        "KANBAN": {
-            "STEP1": {
-                "TITLE": "İş akışınızı düzenleyin",
-                "TEXT": "İş akışı adımlarınıza eşleşen sütunları yönetim bölümünden ayarlayın."
-            },
-            "STEP2": {
-                "TITLE": "Kullanıcı Hikayeleri & Görevleri",
-                "TEXT": "User stories are the requirements at high level. You can drag them to different columns."
-            },
-            "STEP3": {
-                "TITLE": "Kullanıcı hikayesi eklemek",
-                "TEXT1": "You may want to add a single user story (add user story icon) or a group of them (bulk icon)",
-                "TEXT2": "İyi şanslar!"
-            }
-        }
-    },
     "DISCOVER": {
         "PAGE_TITLE": "Projeleri keşfedin - Taiga",
         "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
