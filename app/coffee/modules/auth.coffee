@@ -304,8 +304,6 @@ LoginDirective = ($auth, $confirm, $location, $config, $routeParams, $navUrls, $
             $events.setupConnection()
             $analytics.trackEvent("auth", "login", "user login", 1)
 
-            $auth.showTerms()
-
             if $scope.nextUrl.indexOf('http') == 0
                 $window.location.href = $scope.nextUrl
             else
